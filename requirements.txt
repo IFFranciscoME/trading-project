@@ -1,0 +1,25 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- project: A python project for algorithmic trading in FXCM                                           -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- script: requirements.txt : text file with the required libraries for the project                    -- #
+# -- author: YOUR GITHUB USER NAME                                                                       -- #
+# -- license: MIT License                                                                                -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- Template repository: https://github.com/IFFranciscoME/trading-project                               -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+# -- use: pip install -r requirements.txt
+
+# -- Data and calculations
+pandas
+numpy
+
+# -- Visualizations
+jupyter
+plotly
+
+# -- Connectivity
+fxcmpy==1.2.6
+python-engineio==3.9.0
+python-socketio==4.4.0

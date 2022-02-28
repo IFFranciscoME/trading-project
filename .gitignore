@@ -1,3 +1,20 @@
+# ------------------------ Project Specific ----------------------- #
+# ----------------------------------------------------------------- #
+
+# -- Exclude pycharm project folder
+.idea/
+
+# -- Exclude vscode settings folder
+.vscode/
+
+# -- Exclude virtual environment
+dev_venv/
+
+# -- Exclude files folder (sometimes is useful not to exclude it)
+files/
+
+# ----------------------------------------------------------------- #
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
