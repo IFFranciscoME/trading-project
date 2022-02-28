@@ -16,7 +16,7 @@ import fxcmpy
 # -- --------------------------------------------------------------------------------------------------- -- #
 
 api_token = "ba432..." # This token is obtained in the fxcm trading station platform
-con = fxcmpy.fxcmpy(access_token = api_token, server='demo', log_level='error', log_file='fxcm_logs.txt')
+con = fxcmpy.fxcmpy(access_token=api_token, server='demo', log_level='error', log_file='fxcm_logs.txt')
 
 # -- --------------------------------------------------------------------------------------------------- -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
