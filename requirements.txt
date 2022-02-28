@@ -19,7 +19,7 @@ numpy
 jupyter
 plotly
 
-# -- Connectivity
+# -- Connectivity for FXCM Broker
 fxcmpy==1.2.6
 python-engineio==3.9.0
 python-socketio==4.4.0
